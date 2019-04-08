@@ -1,0 +1,37 @@
+.dos-columnas{margin-top:50px;}
+
+.formulario{
+	float:center;
+	width:50%;
+	margin:auto;
+	color:#999;}
+
+.titulo-formulario{
+	margin-left:145px;
+	font-size: 35px;
+	color: black}
+
+.caja-1{
+	width: 250px;
+	height: 40px;
+	margin: 20px;
+	padding: 10px;
+	font-size: 14px;}
+
+.caja-2{
+	width: 568px;
+	height: 40px;
+	margin: 20px;
+	padding: 10px;
+	font-size: 14px;}
+
+.caja-3{
+	width: 568px;
+	height: 200px;
+	margin: 20px;
+	padding: 10px;
+	font-size: 14px;}
+
+.boton{
+	margin-left:275px;
+}

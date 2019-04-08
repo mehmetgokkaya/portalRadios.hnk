@@ -1,0 +1,102 @@
+
+/* Parte Superior */
+.color-header{
+    background: black;
+    background-size: cover}
+
+/* Parte Inferior index */
+.main-inferior-radios{
+	width:100%;
+	height:95px;
+	background-color: black;}    
+/* Copyright */
+.copyright-radios{
+    padding-top:50px ;
+    margin-right: 10px;
+    color:white;
+    font-size:15px;}
+/* Iconos Sociales */
+.social-bar{
+    position: fixed;
+    left: 0;
+    top: 35%;
+    font-size: 3.5rem;
+    display:flex;
+    align-items:flex-start;
+    flex-direction: column;
+    z-index: 100;}
+.icon{
+    color: white;
+    text-decoration: none;
+    padding: .7rem;
+    display: flex;
+    transition: all .5s;}
+.icon-facebook2{background: #2e406e;}
+.icon-twitter{background: #339dc5}
+.icon-youtube{background: #e83028}
+.icon-whatsapp{background:#458f5b}
+.icon-instagram{background:#aa3ba5;}
+.icon:first-child{border-radius: 0 1rem  0 0;}
+.icon:last-child{border-radius: 0 0 1rem 0;}
+.icon:hover{
+	padding-left: 3.5rem;
+    border-radius:0 1rem 1rem 0;
+    box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);}
+
+/* Parte Central */
+
+.player421{
+    padding-top: 15px;
+    width: 200px;
+    height: 200px;}
+
+.background-beachgrooves{
+    background: url(../img/Beachgrooves/BeachGrooves-Studio-edit.png);
+    background-size: cover;
+    background-position: center;}
+
+.background-radiodisney{
+    background: url(../img/RadioDisney/radio-disney-staff-500-331.jpg);
+    background-size: cover;
+    background-position: center;}
+
+.background-RadioPlaneta{
+    background:#626972;
+    background-size: cover;
+    background-position: center;}
+
+.background-ChillOutCostadelMar{
+    background: url(../img/ChillOutCostadelMar/maxresdefault.jpg);
+    background-size: cover;
+    background-position: center;}
+
+.background-RadioNacionalRock{
+    background: url(../img/RadioNacionalRock93.7/untitled-121.jpg);
+    background-size: cover;
+    background-position: center;}
+
+.background-Pop-Radio{
+    background: url(../img/Pop-Radio-FM-101.5/DO2106tW0AMn1MS.jpg);
+    background-size: cover;
+    background-position: center;}
+
+.background-RadioNexo{
+    background: url(../img/Radionexo/logo-grande.png);
+    background-size: cover;
+    background-position: center;}
+
+.background-RadioMetro{
+    background: url(../img/RadioMetro95.1/bg.png);
+    background-size: cover;
+    background-position: center;}
+
+.background-RadioBlue{
+    background: url(../img/RadioBlue100.7/edb573a17581af3290eff07627fcedd0_XL.jpg);
+    background-size: cover;
+    background-position: center;}
+
+.background-RadioOne{
+    background: url(../img/RadioOne103.7/58f657fb4a9b2_thumb900.jpg);
+    background-size: cover;
+    background-position: center;  
+}

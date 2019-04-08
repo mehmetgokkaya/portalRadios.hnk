@@ -1,0 +1,866 @@
+/* index 320p x 480 */
+@media only screen and (max-width: 320px){
+/* Cabezera */
+a.logo{
+    width: 60%;
+    padding-top: 3px;
+    font-size: 2.1em;
+    display: flex;
+    justify-content: space-between;}
+a.contacto{
+    font-size: 17px;
+    padding-top: 15px;}
+/* Parte Superior index */
+.main-superior{
+    height:250px;
+    background-size: 100% 250px; }
+.radios-web{
+        height:50px;
+        margin-bottom: 20px;
+        padding-top: 210px;
+        padding-left: 0px;
+        font-size: 2em;
+        color: black;
+        -webkit-text-fill-color:white;
+        -webkit-text-stroke:0.5px;
+        -webkit-text-stroke-color:black;}	
+/* Parte Central index */
+.menu-radios{
+    width: 75px;
+    height:75px;
+    display: inline-block;
+    margin-right: 5px;
+	box-shadow:0 0 7px 1px rgba(0,121,178,0.8);
+}
+.menu-radios.radio-web-01{
+    background-image: url(../img/r1/logoradio1.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-02{
+    background-image: url(../img/r2/logoradio2.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-03{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-04{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-05{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-06{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-07{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-08{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-09{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-10{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-11{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-12{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-13{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-14{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-15{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-16{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-17{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-18{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+/* Parte Inferior index */
+.radios-web-barra-bottom{
+	width:95%;
+	margin-top: 10px;
+    margin-bottom: 12px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height:35px; 
+	border-top: solid 5px #000;
+    color:#000;}
+.main-inferior{
+    width:100%;
+    height:100px;
+    background-image: url(../img/f5d7b8cf-740f-4700-ad58-9996d3b8a532.jpg);
+    background-size: 100% 100px;
+    background-repeat: no-repeat}
+/* Iconos Sociales */
+.facebook{
+    width: 32px;
+    height: 32px;
+    margin-top: 57px;
+    margin-left: 10px;
+    background-image: url(../img/social/facebook-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}
+.twitter{
+    width: 32px;
+    height: 21px;
+    margin-top: 65px;
+    background-image: url(../img/social/gorjeo-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}
+.whatsapp{
+    width: 32px;
+    height: 32px;
+    margin-top: 55px;
+    margin-right: 1px;
+    background-image: url(../img/social/whatsapp-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}
+.instagram{
+    width: 32px;
+    height: 32px;
+    margin-top:58px;
+    background-image: url(../img/social/instagram-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}	
+/* Copyright */
+.copyright{
+    margin-top: 65px;
+    margin-right: 10px;
+    color:white;
+    font-size:10px;}
+}   
+	
+/* index 480 x 320 */
+@media only screen and (min-width: 480px) and (max-width: 767px){
+/* Cabezera */
+a.logo{
+    width: 60%;
+    padding-top: 7px;
+    font-size: 2.8rem;
+    display: flex;
+    justify-content: space-between;}
+a.contacto{
+    font-size: 17px;
+    padding-top: 15px;}
+/* Parte Superior index */
+.main-superior{
+    height:250px;
+    background-size: 100% 250px; }
+.radios-web{
+    height:50px;
+    margin-bottom: 20px;
+    padding-top: 210px;
+    padding-left: 0px;
+    font-size: 2em;
+    color: black;
+    -webkit-text-fill-color:white;
+    -webkit-text-stroke:0.5px;
+    -webkit-text-stroke-color:black;}	
+/* Parte Central index */
+.menu-radios{
+    width: 50px;
+    height:50px;
+    display:inline-flex; 
+    justify-content: center;
+    box-shadow:0 0 7px 1px rgba(0,121,178,0.8);
+    margin:6px;}
+.menu-radios.radio-web-01{
+    background-image: url(../img/r1/logoradio1.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-02{
+    background-image: url(../img/r2/logoradio2.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-03{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-04{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-05{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-06{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-07{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-08{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-09{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-10{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-11{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-12{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-13{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-14{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-15{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-16{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-17{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-18{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+/* Parte Inferior index */
+.radios-web-barra-bottom{
+width:95%;
+margin-top: 10px;
+margin-bottom: 12px;
+margin-left: auto;
+margin-right: auto;
+line-height:35px; 
+border-top: solid 5px #000;
+color:#000;}
+.main-inferior{
+width:100%;
+height:100px;
+background-image: url(../img/f5d7b8cf-740f-4700-ad58-9996d3b8a532.jpg);
+background-size: 100% 100px;
+background-repeat: no-repeat}
+/* Iconos Sociales */
+.facebook{
+width: 32px;
+height: 32px;
+margin-top: 57px;
+margin-left: 10px;
+background-image: url(../img/social/facebook-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}
+.twitter{
+width: 32px;
+height: 21px;
+margin-top: 65px;
+background-image: url(../img/social/gorjeo-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}
+.whatsapp{
+width: 32px;
+height: 32px;
+margin-top: 55px;
+margin-right: 1px;
+background-image: url(../img/social/whatsapp-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}
+.instagram{
+width: 32px;
+height: 32px;
+margin-top:58px;
+background-image: url(../img/social/instagram-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}	
+/* Copyright */
+.copyright{
+    margin-top: 65px;
+    margin-right: 10px;
+    color:white;
+    font-size:10px;}
+
+    }
+
+/* index 768 x 1024 */
+@media only screen and (min-width: 768px){
+/* Cabezera */
+a.logo{
+    width: 60%;
+    padding-top: 7px;
+    font-size: 3.5rem;
+    display: flex;
+    justify-content: space-between;}
+a.contacto{
+    font-size: 25px;
+    padding-top: 15px;}
+/* Parte Superior index */
+.main-superior{
+    height:285px;
+    background-size: 100% 285px; }
+.radios-web{
+    height:50px;
+    margin-bottom: 20px;
+    padding-top: 240px;
+    padding-left: 0px;
+    font-size: 2.5em;
+    color: black;
+    -webkit-text-fill-color:white;
+    -webkit-text-stroke:0.5px;
+    -webkit-text-stroke-color:black;}	
+/* Parte Central index */
+.menu-radios{
+    width: 175px;
+    height:175px;
+    display:inline-flex; 
+    justify-content: center;
+    box-shadow:0 0 7px 1px rgba(0,121,178,0.8);
+    margin:6px;}
+.menu-radios.radio-web-01{
+    background-image: url(../img/r1/logoradio1.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-02{
+    background-image: url(../img/r2/logoradio2.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-03{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-04{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-05{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-06{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-07{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-08{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-09{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-10{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-11{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-12{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-13{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-14{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-15{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-16{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-17{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-18{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+/* Parte Inferior index */
+.radios-web-barra-bottom{
+width:95%;
+margin-top: 10px;
+margin-bottom: 12px;
+margin-left: auto;
+margin-right: auto;
+line-height:35px; 
+border-top: solid 5px #000;
+color:#000;}
+.main-inferior{
+width:100%;
+height:100px;
+background-image: url(../img/f5d7b8cf-740f-4700-ad58-9996d3b8a532.jpg);
+background-size: 100% 100px;
+background-repeat: no-repeat}
+/* Iconos Sociales */
+.facebook{
+width: 32px;
+height: 32px;
+margin-top: 57px;
+margin-left: 10px;
+background-image: url(../img/social/facebook-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}
+.twitter{
+width: 32px;
+height: 21px;
+margin-top: 65px;
+background-image: url(../img/social/gorjeo-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}
+.whatsapp{
+width: 32px;
+height: 32px;
+margin-top: 55px;
+margin-right: 1px;
+background-image: url(../img/social/whatsapp-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}
+.instagram{
+width: 32px;
+height: 32px;
+margin-top:58px;
+background-image: url(../img/social/instagram-copia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%}	
+/* Copyright */
+.copyright{
+    margin-top: 65px;
+    margin-right: 10px;
+    color:white;
+    font-size:13px;}
+
+
+    }
+
+/* index 1024 x 768 */
+@media only screen and (min-width: 1024px){
+/* Cabezera */
+a.logo{
+    width: 60%;
+    padding-top: 4px;
+    font-size: 4rem;
+    display: flex;
+    justify-content: space-between;}
+a.contacto{
+    font-size: 25x;
+    padding-top: 15px;}
+/* Parte Superior index */
+.main-superior{
+    height:320px;
+    background-size: 100% 320px; }
+.radios-web{
+    height:50px;
+    margin-bottom: 20px;
+    padding-top: 275px;
+    padding-left: 0px;
+    font-size: 2.8em;
+    color: black;
+    -webkit-text-fill-color:white;
+    -webkit-text-stroke:0.5px;
+    -webkit-text-stroke-color:black;}	
+/* Parte Central index */
+.menu-radios{
+    width: 200px;
+    height:200px;
+    display:inline-flex; 
+    justify-content: center;
+    box-shadow:0 0 7px 1px rgba(0,121,178,0.8);
+    margin:6px;}
+.menu-radios.radio-web-01{
+    background-image: url(../img/r1/logoradio1.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-02{
+    background-image: url(../img/r2/logoradio2.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-03{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-04{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-05{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-06{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-07{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-08{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-09{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-10{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-11{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-12{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-13{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-14{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-15{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-16{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-17{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-18{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+/* Parte Inferior index */
+.radios-web-barra-bottom{
+    width:95%;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height:35px; 
+    border-top: solid 5px #000;
+    color:#000;}
+.main-inferior{
+    width:100%;
+    height:200px;
+    background-image: url(../img/f5d7b8cf-740f-4700-ad58-9996d3b8a532.jpg);
+    background-size: 100% 200px;
+    background-repeat: no-repeat}
+/* Iconos Sociales */
+.facebook{
+    width: 32px;
+    height: 32px;
+    margin-top: 150px;
+    margin-left: 10px;
+    background-image: url(../img/social/facebook-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}
+.twitter{
+    width: 32px;
+    height: 21px;
+    margin-top: 157px;
+    background-image: url(../img/social/gorjeo-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}
+.whatsapp{
+    width: 32px;
+    height: 32px;
+    margin-top: 147px;
+    margin-right: 1px;
+    background-image: url(../img/social/whatsapp-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}
+.instagram{
+    width: 32px;
+    height: 32px;
+    margin-top:153px;
+    background-image: url(../img/social/instagram-copia.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%}	
+/* Copyright */
+.copyright{
+    margin-top: 165px;
+    margin-right: 10px;
+    color:white;
+    font-size:14px;}
+     }
+
+ /* index 1680 x 1050 */
+@media only screen and (min-width:1050px) and (max-width:1680px){
+    /* Cabezera */
+ #main-header{
+    width: 100%;
+    height: 100px;
+    background:black;
+    display: flex;
+    justify-content: space-between}
+a.logo{
+    width: 60%;
+    padding-top: 1px;
+    font-size: 5.8rem;
+    display: flex;
+    justify-content: space-between;}
+a.contacto{
+    font-size: 25x;
+    padding-top: 30px;}
+/* Parte Superior index */
+.main-superior{
+    height:380px;
+    background-size: 100% 380px; }
+.radios-web{
+    height:50px;
+    margin-bottom: 20px;
+    padding-top: 300px;
+    padding-left: 0px;
+    font-size: 4em;
+    color: black;
+    -webkit-text-fill-color:white;
+    -webkit-text-stroke:1.2px;
+    -webkit-text-stroke-color:black;}	
+/* Parte Central index */
+.menu-radios{
+    width: 200px;
+    height:200px;
+    display:inline-flex; 
+    justify-content: center;
+    box-shadow:0 0 7px 1px rgba(0,121,178,0.8);
+    margin:6px;}
+.menu-radios.radio-web-01{
+    background-image: url(../img/r1/logoradio1.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-02{
+    background-image: url(../img/r2/logoradio2.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-03{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-04{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-05{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-06{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-07{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-08{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-09{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-10{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-11{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-12{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-13{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-14{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-15{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-16{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-17{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+.menu-radios.radio-web-18{
+    background-image: url(../img/icon.png);
+    background-size: 100% 100%}
+/* Parte Inferior index */
+.radios-web-barra-bottom{
+    width:95%;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height:35px; 
+    border-top: solid 5px #000;
+    color:#000;}
+.main-inferior{
+    width:100%;
+    height:250px;
+    background-image: url(../img/f5d7b8cf-740f-4700-ad58-9996d3b8a532.jpg);
+    background-size: 100% 250px;
+    background-repeat: no-repeat}
+ /* Iconos Sociales */
+    .facebook{
+        width: 64px;
+        height: 64px;
+        margin-top: 165px;
+        margin-left: 10px;
+        background-image: url(../img/social/facebook-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}
+    .twitter{
+        width: 64px;
+        height: 42px;
+        margin-top: 180px;
+        background-image: url(../img/social/gorjeo-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}
+    .whatsapp{
+        width: 64px;
+        height: 64px;
+        margin-top: 157px;
+        margin-right: 1px;
+        background-image: url(../img/social/whatsapp-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}
+    .instagram{
+        width: 64px;
+        height: 64px;
+        margin-top:168px;
+        background-image: url(../img/social/instagram-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}	
+    /* Copyright */
+    .copyright{
+        margin-top: 175px;
+        margin-right: 10px;
+        color:white;
+        font-size:18px;}
+     }
+
+/* Radios 320p x 480 */
+@media only screen and (max-width: 320px){
+    /* Cabezera */
+    a.logo{
+        width: 60%;
+        padding-top: 3px;
+        font-size: 2.1em;
+        display: flex;
+        justify-content: space-between;}
+    a.contacto{
+        font-size: 17px;
+        padding-top: 15px;}
+    /* Parte Superior index */
+    .main-superior{
+        height:250px;
+        background-size: 100% 250px; }
+    .radios-web{
+            height:50px;
+            margin-bottom: 20px;
+            padding-top: 210px;
+            padding-left: 0px;
+            font-size: 2em;
+            color: black;
+            -webkit-text-fill-color:white;
+            -webkit-text-stroke:0.5px;
+            -webkit-text-stroke-color:black;}	
+    /* Parte Central index */
+    .menu-radios{
+        width: 75px;
+        height:75px;
+        display: inline-block;
+        margin-right: 5px;
+        box-shadow:0 0 7px 1px rgba(0,121,178,0.8);
+    }
+    .menu-radios.radio-web-01{
+        background-image: url(../img/r1/logoradio1.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-02{
+        background-image: url(../img/r2/logoradio2.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-03{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-04{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-05{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-06{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-07{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-08{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-09{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-10{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-11{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-12{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-13{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-14{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-15{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-16{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-17{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    .menu-radios.radio-web-18{
+        background-image: url(../img/icon.png);
+        background-size: 100% 100%}
+    /* Parte Inferior index */
+    .radios-web-barra-bottom{
+        width:95%;
+        margin-top: 10px;
+        margin-bottom: 12px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height:35px; 
+        border-top: solid 5px #000;
+        color:#000;}
+    .main-inferior{
+        width:100%;
+        height:100px;
+        background-image: url(../img/f5d7b8cf-740f-4700-ad58-9996d3b8a532.jpg);
+        background-size: 100% 100px;
+        background-repeat: no-repeat}
+    /* Iconos Sociales */
+    .facebook{
+        width: 32px;
+        height: 32px;
+        margin-top: 57px;
+        margin-left: 10px;
+        background-image: url(../img/social/facebook-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}
+    .twitter{
+        width: 32px;
+        height: 21px;
+        margin-top: 65px;
+        background-image: url(../img/social/gorjeo-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}
+    .whatsapp{
+        width: 32px;
+        height: 32px;
+        margin-top: 55px;
+        margin-right: 1px;
+        background-image: url(../img/social/whatsapp-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}
+    .instagram{
+        width: 32px;
+        height: 32px;
+        margin-top:58px;
+        background-image: url(../img/social/instagram-copia.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%}	
+    /* Copyright */
+    .copyright{
+        margin-top: 65px;
+        margin-right: 10px;
+        color:white;
+        font-size:10px;}
+    }

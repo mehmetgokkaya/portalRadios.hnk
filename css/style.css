@@ -1,0 +1,168 @@
+html{font-size:62.5%}
+a{text-decoration:none}
+
+/* Estilos de Bodys */
+body{
+	font-size:1.6rem;
+	font-family:sans-serif;}
+#bodyindex{background-color:#E2E3DF;}
+#bodycontacto{background-color:#E2E3DF;}
+#bodyr1{
+	background-image: url(../img/Radio-Beachgrooves/BeachGrooves-Studio-edit.png);
+	background-repeat:no-repeat;
+	background-size: 100% 100%;}
+#bodyr2{
+	background-image: url(../img/r2/CbnKA4DUMAA-Wio.jpg);
+	background-repeat:no-repeat;
+	background-size: 100% 100%;}
+
+/* Cabezera */
+#main-header{
+	width: 100%;
+	height: 65px;
+	background:black;
+	display: flex;
+	justify-content: space-between}
+
+.color-header{
+    background: black;
+	background-size: cover}
+	
+.logo{
+	width: 80%;
+	color: white;
+	padding-left: 10px;
+	font-size: 4.5em;}
+.contacto{
+	padding-top: 11px;
+	padding-right: 10px;
+	float: right;
+	color: white;
+	font-size: 2em;}
+
+/* Parte Superior index */
+.main-superior{
+	height:500px;
+	background-image: url(../img/c2edf24a-203d-47a7-a153-c6ca9f5912f5.jpg);
+	background-size: 100% 500px;
+	background-repeat: no-repeat;}
+.radios-web{
+	height:50px;
+	margin-left: 15px;
+	padding-top: 430px;
+	margin-bottom: 20px;
+	padding-left: 20px;
+	font-size: 4em;
+	color: black;
+	-webkit-text-fill-color:white;
+	-webkit-text-stroke:1.5px;
+	-webkit-text-stroke-color:black;}	
+.radios-web-barra-top{	
+	width:95%;
+	line-height:35px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom:solid 5px #000;}
+/* Parte Central index */
+.menu-radios{
+	width: 200px;
+    height:200px;
+    display:inline-flex; 
+    justify-content: center;
+    box-shadow:0 0 7px 1px rgba(0,121,178,0.8);
+	margin:6px;}
+.menu-radios.radio-web-01{
+	background-image: url(../img/Beachgrooves/logoradio1.png);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-02{
+	background-image: url(../img/RadioDisney/hqdefault.png);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-03{
+	background-image: url(../img/Radioplaneta/avatars-000377707778-lfei4c-t500x500.jpg);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-04{
+	background-image: url(../img/ChillOutCostadelMar/RADIO.CDM-LOGO-CHILLLOUT-600.jpg);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-05{
+	background-image: url(../img/RadioNacionalRock93.7/bdff30997461e0dc2a336a12fe802fa1.jpg);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-06{
+	background-image: url(../img/Pop-Radio-FM-101.5/pop-radio-101.5.jpg);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-07{
+	background-image: url(../img/Radionexo/LOGO-NEXO-SOLO.png);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-08{
+	background-image: url(../img/RadioMetro95.1/Mo5LZcZQ_400x400.jpg);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-09{
+	background-image: url(../img/RadioBlue100.7/unnamed.jpg);
+    background-size: cover;
+    background-position: center;}
+.menu-radios.radio-web-10{
+	background-image: url(../img/RadioOne103.7/DEMn82Ag_400x400.jpg);
+    background-size: cover;
+    background-position: center;}
+/* Parte Inferior index */
+.radios-web-barra-bottom{
+	width:95%;
+	margin-top: 10px;
+	margin-bottom: 12px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height:35px; 
+	border-top: solid 5px #000;
+	color:#000;}
+.main-inferior{
+	width:100%;
+	height:150px;
+	background-image: url(../img/f5d7b8cf-740f-4700-ad58-9996d3b8a532.jpg);
+	background-size: 100% 150px;
+	background-repeat: no-repeat}
+/* Iconos Sociales */
+.facebook{
+	width: 42px;
+	height: 42px;
+	margin-top: 95px;
+	margin-left: 10px;
+	background-image: url(../img/social/facebook-copia.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%}
+.twitter{
+	width: 42px;
+	height: 25px;
+	margin-top: 105px;
+	background-image: url(../img/social/gorjeo-copia.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%}
+.whatsapp{
+	width: 42px;
+	height: 42px;
+	margin-top: 90px;
+	margin-right: 6px;
+	background-image: url(../img/social/whatsapp-copia.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%}
+.instagram{
+	width: 42px;
+	height: 42px;
+	margin-top: 95px;
+	background-image: url(../img/social/instagram-copia.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%}	
+/* Copyright */
+.copyright{
+	margin-top: 100px;
+	margin-right: 10px;
+	color:white;
+	font-size:15px;}
